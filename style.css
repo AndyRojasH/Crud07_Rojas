@@ -1,0 +1,27 @@
+@charset "utf-8";
+body {
+    background-color: teal;
+    color: white;
+  }
+#form{
+	width:  500px;
+	margin:  0 auto;
+	text-align: center;
+}
+#form form input{
+	width: 100%;
+	height:  35px;
+}
+form button{
+	width: 50%;
+	height: 35px;
+}
+table, td{
+	border:solid #e9e9e9 1px;
+}
+#form2{
+    background-color: rgb(200, 3, 3);
+	margin:  0 auto;
+	text-align: center;
+}
+
